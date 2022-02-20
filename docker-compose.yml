@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  node:
+    build: ./docker
+    volumes:
+      - ./memo:/usr/src/app:cached
+    command: sh -c "npm start"
+    ports:
+      - "3000:3000"
