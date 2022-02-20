@@ -1,0 +1,2 @@
+仮想ミキサーでマイク入力とスピーカー出力をMIXさせることができるらしい。
+https://internet.watch.impress.co.jp/docs/column/teleworkstory/1333910.html
